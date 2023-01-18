@@ -1,0 +1,13 @@
+body {
+    background-color: tan;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 10px;
+}
+
+input,
+button {
+    border-radius: 4px;
+
+}
